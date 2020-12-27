@@ -1,0 +1,265 @@
+.wrapper {
+  max-width: 100%;
+  
+} 
+
+  .header {
+    width: 100%;
+    height: 50px;
+  }
+  .header__logo {
+    display: none;
+
+  }
+  .header__logo__320 {
+    position: absolute;
+    opacity: 1;
+    margin-left: 54px;
+    margin-top: 9px;
+  }
+
+  .pixel {
+    position: absolute;
+    margin-left: -25px;
+    margin-top: 8px;
+  }
+  .nav__icon {
+    margin-left: 14px;
+    margin-top: 2px;
+  }
+  .header__button {
+    position: absolute;
+    right: 0px;
+    margin-top: 5px;
+    font-size: 15px;
+    line-height: 10px;
+    font-family: "PT Sans";
+  }
+  .lupa2 {
+    position: absolute;
+    display: block;
+    right: 59px;
+    margin-top: -29px;
+  }
+  .nav__bar {
+    margin-left: 14px;
+    margin-top: 2px;
+  }
+  .search {
+    display: none;
+  }
+  .nav__item {
+    font-size: 14px;
+  }
+.nav{
+  width: 100%;
+}
+  .nav__item_one {
+    width: 60px;
+    margin-left: 1px;
+    margin-top: -1px;
+  }
+  .nav__item_two {
+    width: 43px;
+    margin-left: 10px;
+  }
+  .nav__item_three {
+    width: 38px;
+    margin-left: 10px;
+  }
+  .nav__item_four {
+    width: 42px;
+    margin-left: 15px;
+  }
+  .nav__item_five {
+    width: 58px;
+    margin-left: 15px;
+  }
+  h1 {
+    font-size: 20px;
+    margin-top: 22px;
+    margin-left: 11px;
+  }
+  .box {
+    width: 100%;
+    height: 386px;
+    margin-top: 8px;
+
+    background-image: url(../pictures/31.svg);
+  }
+  .box__button {
+    margin-top: 115px;
+    margin-left: 14px;
+    padding-left: 2px;
+  }
+  .box__text {
+    width: 100%;
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .box__text {
+    width: 290px;
+    margin-top: 23px;
+    margin-left: 14px;
+  }
+  .about {
+    padding: 0;
+    margin-left: 5px;
+    margin-top: 5px;
+  }
+  .about__signature {
+    margin-top: 65px;
+    margin-left: 8px;
+  }
+  .about__like {
+    margin-top: 14px;
+    margin-left: 9px;
+  }
+  .box2 {
+    width: 100%;
+    height: 386px;
+    margin-top: 15px;
+    background-image: url(../pictures/29.svg);
+  }
+  .box2__button {
+    width: 104px;
+    height: 24px;
+  }
+  .box3 {
+    width: 100%;
+    height: 386px;
+    margin-top: 15px;
+    background-image: url(../pictures/30.svg);
+  }
+  .box3__button {
+    width: 104px;
+    height: 24px;
+  }
+  .about__like_box3 {
+    padding-top: 23px;
+  }
+  
+  .news {
+    margin-left: 16px;
+    margin-top: 31px;
+  }
+  .news__item_1920 {
+    display: none;
+  }
+  .news__item_320 {
+    display: block;
+    margin-left: 31px;
+  }
+  .news-time {
+    margin-top: -17px;
+  }
+  .news-time__text {
+    margin-top: 13px;
+    margin-left: 19px;
+    width: 225px;
+    line-height: 24px;
+  }
+  .news-time-about {
+    margin-top: 80px;
+    margin-left: 19px;
+  }
+  .serie__text {
+    display: none;
+  }
+
+  .container-r{
+   
+    display: block;
+  }
+  .sidebar_one{
+    display: none;
+  }
+  .sidebar__html{
+    display: none;
+  }
+  .sidebar__last{
+    display: none;
+  }
+  .hardware{
+    display: none;
+  }
+  .container{
+    width: 100%;
+    position: relative;
+  }
+
+  .hardware__spisok_two li{
+    margin-top: 13px;
+  }
+  .hide{
+    display: none;
+  }
+  .hardware__button{
+    width: 248px;
+    height: 32px;
+    margin-left: 24px;
+  }
+  .twoslider{
+    width: 100%;
+  }
+  .button__seria__one{
+    margin-left: 5px;
+  }
+  li.hide1920 {
+    display: block
+}
+
+.news-time__about{
+  margin-top: 77px;
+  margin-left: 19px;
+}
+.container {
+    padding-left: 0;
+}
+.nav__item:hover{
+  display: none;
+}
+.box:hover .box_layer {
+  opacity: 0;
+}
+.sidebar__img:hover .box_layer_two {
+  opacity: 0;
+}
+.sidebat__html:hover .box_layer_three {
+  opacity: 0;
+}
+.box2:hover .box_layer_four {
+  opacity: 0;
+}
+.box3:hover .box_layer_five {
+  opacity: 0;
+}
+.containet-m{
+  flex-direction: column;
+}
+.sidebar {
+    height: 405px;
+width: 288px;
+  padding-bottom: 20px;
+  margin-bottom: 58px;
+  margin-top: 0;
+}
+.line__box__two {
+    top: 122px;
+}
+.button__hover:hover{
+display:none;}
+
+.nav__item{
+pointer-events:none;
+}
+.button__hover{
+pointer-events:none;
+}
+.line__box {
+    left: 19px;
+}
+.line__box__two{
+background: linear-gradient(#ffffff 0,10%, #828282, #ffffff);
+}
+
