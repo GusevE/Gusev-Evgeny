@@ -9,9 +9,6 @@ body {
   padding-top: 37px;
   margin-left: -39px; }
 
-.button {
-  margin-top: 14px;
-  margin-right: 16px; }
 
 .nav__icon {
   margin-left: 40px; }
@@ -57,7 +54,7 @@ h1 {
 .sidebar__menu {
   padding-top: 8px; }
 
-.hardware__spisok_two {
+.hardware__list_two {
   margin-left: 17px;
   padding-top: 2px; }
 
@@ -67,16 +64,16 @@ ul {
 .sidebar__text {
   margin-bottom: 17px; }
 
-.hardware__spisok_two {
+.hardware__list_two {
   padding-top: 0px; }
 
 .sidebar_one {
   margin-top: 17px; }
 
-.hardware__spisok ul {
+.hardware__list ul {
   width: 290px; }
 
-.hardware__spisok_two ul {
+.hardware__list_two ul {
   width: 203px; }
 
 .hardware__button_two {
@@ -91,7 +88,7 @@ ul {
   margin-left: 2px; }
 
 .box2 {
-  margin-top: 25px;
+
   width: 354px;
   height: 492px;
   background-image: url(../pictures/32.svg); }
@@ -169,7 +166,7 @@ height: 492px;
 
 
 
-.hardware__spisok {
+.hardware__list {
   margin-left: 19px; }
 
 .sidebar {
@@ -179,14 +176,14 @@ height: 492px;
   margin-top: 17px;
   margin-left: 24px; }
 
-.hardware__spisok_two {
+.hardware__list_two {
   margin-left: 26px; }
 
 .sidebar_one {
   margin-top: 26px;
   margin-left: 14px; }
 
-.strelki {
+.arrows {
   display: none; }
 
 .news {
@@ -248,4 +245,7 @@ pointer-events:none;
 }
 .button__hover{
 pointer-events:none;
+}
+.nav__icon_320{
+  display: none;
 }
