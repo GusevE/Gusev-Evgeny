@@ -13,9 +13,6 @@
 .header__logo {
   margin-left: 199px; }
 
-  .header__title{
-    padding: 0 15px 0 15px;
-  }
 
 .nav__icon {
   position: absolute;
@@ -74,6 +71,7 @@ h1 {
   margin-left: 20px; }
 
 .about {
+  bottom: 16px;
   display: block;
   }
 
@@ -237,5 +235,13 @@ pointer-events:none;
 }
 .button__hover{
 pointer-events:none;
+}
+.about__like_one{
+  
+  left: 20px;
+  bottom: 15px;
+}
+.about__signature_one{
+  bottom: 39px;
 }
 

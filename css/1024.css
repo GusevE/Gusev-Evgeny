@@ -9,7 +9,10 @@ body {
   padding-top: 37px;
   margin-left: -39px; }
 
-
+.header__title{
+  
+  padding: 30px 20px 30px 20px;
+}
 .nav__icon {
   margin-left: 40px; }
 
@@ -32,8 +35,8 @@ h1 {
 .box {
   width: 730px;
   height: 492px;
-  margin-left: 8px;
-  margin-top: 23px;
+  
+  
   background-image: url(../pictures/19.svg); }
 
 .box__text_2 {
@@ -48,11 +51,7 @@ h1 {
   height: 73px;
   margin-top: 45px; }
 
-.sidebar {
-  margin-left: -32px; }
 
-.sidebar__menu {
-  padding-top: 8px; }
 
 .hardware__list_two {
   margin-left: 17px;
@@ -83,9 +82,6 @@ ul {
   padding-top: 62px;
   margin-left: 22px; }
 
-.sidebar__button {
-  margin-top: 33px;
-  margin-left: 2px; }
 
 .box2 {
 
@@ -132,11 +128,6 @@ height: 492px;
   margin-top: 70px;
   margin-left: 21px; }
 
-.sidebar__button {
-  margin-top: 40px;
-  margin-left: 2px; }
-
-
 
 .news-time__one {
   margin: 0;
@@ -169,19 +160,18 @@ height: 492px;
 .hardware__list {
   margin-left: 19px; }
 
-.sidebar {
-  margin-left: 8px; }
+
 
 .sidebar__text {
   margin-top: 17px;
   margin-left: 24px; }
 
 .hardware__list_two {
-  margin-left: 26px; }
+  margin-left: 25px; }
 
 .sidebar_one {
   margin-top: 26px;
-  margin-left: 14px; }
+ }
 
 .arrows {
   display: none; }
@@ -189,9 +179,6 @@ height: 492px;
 .news {
   margin-left: 4px;
   margin-bottom: 38px; }
-
-.sidebar__last {
-  margin-left: 10px; }
 
 .hardware__box_left {
   margin-left: 29px; }
