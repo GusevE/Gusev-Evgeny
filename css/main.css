@@ -39,7 +39,7 @@ body {
   background: #E5E5E5;
 }
 .header__logo__320 {
-  opacity: 0;
+  display: none;
 }
 .wrapper{
   background: #FFFFFF;
@@ -970,6 +970,9 @@ line-height: 24px;
   bottom: 34px;
   color: #FFFFFF;
   left: 20px;
+}
+.nav__icon_320{
+  display: none;
 }
 
 
